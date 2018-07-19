@@ -1,2 +1,9 @@
 node_modules/
 no-usar/
+
+machine api.heroku.com
+  login ing2013andresfe@gmail.com
+  password 85720c61-6625-475c-89dd-c3b9b92fb1ee
+machine git.heroku.com
+  login ing2013andresfe@gmail.com
+  password 85720c61-6625-475c-89dd-c3b9b92fb1ee
